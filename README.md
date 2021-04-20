@@ -10,7 +10,7 @@ p {color:red;}
 
 <h1>Vatai Dávid</h1>
 <p> Portófió </p>
-<img src="file:///D:/csiccsentő/logo.png"  >
+<img src="file:///D:/csiccsentő/logo.png" alt: "csiccsentő"  >
 
 
 </body>
