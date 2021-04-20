@@ -11,7 +11,7 @@ p {color:red;}
 <h1>Vatai Dávid</h1>
 <p> Portófióm </p>
 <img src="https://user-images.githubusercontent.com/82877823/115388876-b535a180-a1dc-11eb-836c-c011b0c0965f.png"
- width="500" height="600">
+ alt="micimaci">
 
 </body>
 
