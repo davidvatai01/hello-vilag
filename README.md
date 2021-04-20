@@ -5,11 +5,6 @@
   <li><a href="contact.asp">Contact</a></li>
   <li><a href="about.asp">About</a></li>
 </ul>
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
 <head>
 <style>
 body {background-color:lightgreen;}
