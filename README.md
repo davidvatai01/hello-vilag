@@ -1,4 +1,4 @@
-<html>
+
 <head>
 <style>
 body {background-color:lightgreen;}
@@ -14,4 +14,4 @@ p {color:red;}
 
 
 </body>
-</html>
+
