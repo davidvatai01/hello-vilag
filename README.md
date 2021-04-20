@@ -1,16 +1,18 @@
 
-<ul>
-  <li><a href="default.asp">Home</a></li>
-  <li><a href="https://davidvatai01.github.io/Bemutatkozas/">News</a></li>
-  <li><a href="contact.asp">Contact</a></li>
-  <li><a href="about.asp">About</a></li>
-</ul>
 <head>
 <style>
 body {background-color:lightgreen;}
 h1 {color:Red;}
 p {color:blue;}
 </head>
+  <div class="topnav">
+  <a class="active" href="#home">Home</a>
+  <a href="#news">News</a>
+  <a href="#contact">Contact</a>
+  <a href="#about">About</a>
+</div>
+
+<div style="padding-left:16px">
 </style>
 <body>
 
