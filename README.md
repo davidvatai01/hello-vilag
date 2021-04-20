@@ -10,6 +10,7 @@ p {color:red;}
 
 <h1>Vatai Dávid</h1>
 <p> Portófióm </p>
+<img src="logo.png" width="500" height="600">
 
 </body>
 
