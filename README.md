@@ -5,6 +5,7 @@ body {background-color:lightgreen;}
 h1 {color:Red;}
 p {color:blue;}
 </head>
+</style>
   <div class="topnav">
   <a class="active" href="#home">Home</a>
   <a href="#news">News</a>
@@ -13,7 +14,7 @@ p {color:blue;}
 </div>
 
 <div style="padding-left:16px">
-</style>
+
 <body>
 
 <h1>Vatai Dávid</h1>
