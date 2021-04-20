@@ -8,8 +8,8 @@ p {color:blue;}
 </style>
   <div class="topnav">
   <a class="active" href="#home">Home</a>
-  <a href="https://davidvatai01.github.io/bemutatkozas/">News</a>
-  <a href="#contact">Contact</a>
+  <a href="https://davidvatai01.github.io/Bemutatkozas/">News</a>
+  <a href="#contact">Elérhetőség</a>
   <a href="#about">About</a>
 </div>
 
