@@ -9,7 +9,7 @@ p {color:blue;}
   <div class="topnav">
   <a class="active" href="#home">Home</a>
   <a href="https://davidvatai01.github.io/Bemutatkozas/">News</a>
-  <a href="#contact">Elérhetőség</a>
+  <a href="https://davidvatai01.github.io/Bemutatkozas/">Elérhetőség</a>
   <a href="#about">About</a>
 </div>
 
