@@ -1,5 +1,3 @@
-
-
 <style>
 body {background-color:#ccff99;}
 h1 {color:Black;}
@@ -12,7 +10,7 @@ p {color:#006600;}
   <a href="https://davidvatai01.github.io/Kepek/">Képek</a>
 </div>
 
-<div style="padding-left:24px">
+<div style="padding-left:40px">
   </div>
 
 <body>
