@@ -7,19 +7,18 @@ p {color:blue;}
 </head>
 </style>
   <div class="topnav">
-  <a class="active" href="#home">Home</a>
-  <a href="https://davidvatai01.github.io/Bemutatkozas/">News</a>
-  <a href="https://davidvatai01.github.io/Bemutatkozas/">Elérhetőség</a>
+  <a href="https://davidvatai01.github.io/Bemutatkozas/">Bemutatkozás</a>
+  <a href="https://davidvatai01.github.io/Elérhetosegek/">Elérhetőségek</a>
   <a href="#about">About</a>
 </div>
 
-<div style="padding-left:16px">
+<div style="padding-left:24px">
   </div>
 
 <body>
 
 <h1>Vatai Dávid</h1>
-<p> Portfólió genyó </p>
+<p> Vatai Dávid portfóliós oldala </p>
 <img src="https://user-images.githubusercontent.com/82877823/115390686-d0a1ac00-a1de-11eb-81cd-7036d7a28824.png">
 
 
