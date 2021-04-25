@@ -2,8 +2,8 @@
 <head>
 <style>
 body {background-color:#ccff99;}
-h1 {color:Red;}
-p {color:blue;}
+h1 {color:Black;}
+p {color:#006600;}
 </head>
 </style>
   <div class="asd">
