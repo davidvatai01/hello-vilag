@@ -1,10 +1,10 @@
 
-<head>
+
 <style>
 body {background-color:#ccff99;}
 h1 {color:Black;}
 p {color:#006600;}
-</head>
+
 </style>
   <div class="asd">
   <a href= "https://davidvatai01.github.io/portfolio/">Kezdőlap</a>
