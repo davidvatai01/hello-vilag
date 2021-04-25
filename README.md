@@ -7,7 +7,7 @@ p {color:#006600;}
   <a href= "https://davidvatai01.github.io/portfolio/">Kezdőlap</a>
   <a href="https://davidvatai01.github.io/Bemutatkozas/">Bemutatkozás</a>
   <a href="https://davidvatai01.github.io/Elerhetosegek/">Elérhetőségek</a>
-  <a href="https://davidvatai01.github.io/Kepek/">Képek</a>
+  <a href="https://davidvatai01.github.io/kepek/">Képek</a>
 </div>
 
 <div style="padding-left:40px">
