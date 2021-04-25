@@ -4,7 +4,6 @@
 body {background-color:#ccff99;}
 h1 {color:Black;}
 p {color:#006600;}
-
 </style>
   <div class="asd">
   <a href= "https://davidvatai01.github.io/portfolio/">Kezdőlap</a>
