@@ -20,7 +20,7 @@ p {color:blue;}
 
 <h1>Vatai Dávid</h1>
 <p> Vatai Dávid portfóliós oldala </p>
-<img src="https://user-images.githubusercontent.com/82877823/115390686-d0a1ac00-a1de-11eb-81cd-7036d7a28824.png">
+<img src="!(https://user-images.githubusercontent.com/82877823/115991945-551f7080-a5cb-11eb-9d63-de4060200157.png)">
 
 
 </body>
