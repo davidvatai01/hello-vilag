@@ -1,0 +1,84 @@
+* {
+  box-sizing: border-box;
+
+}
+body{
+	font-size: 24px;
+	margin:0;
+	font-family: 'Titillium Web', sans-serif;
+	background: #85e085;
+}
+.fejlec{
+padding-top: 50px;
+  
+  text-align: center;
+  color: black;
+  border-bottom: 3px solid black;
+ }
+ .fejlec p{
+ 	padding-top: -200px;
+ 	font-size: 32px;
+ }
+
+.navsav{
+
+	background-color: #000000;
+	overflow: hidden;
+	position: fixed;
+  top: 0;
+  width: 100%;
+}
+.navsav a{
+
+	padding: 5px;
+	float: left;
+	display: block;
+	font-size: 28px;
+	color: white;
+	text-decoration: none;
+}
+a.dokumentacio{
+	float: right; 
+}
+.navsav a:hover{
+background-color:  #145214;
+
+border-bottom: 2px solid white;
+
+
+}
+.bemutatkozas{
+	display: flex;
+  flex-wrap: wrap;
+}
+.baloldali{
+	-ms-flex: 30%; /* IE10 */
+  flex: 30%;
+  max-width: 300px;
+	
+}
+.baloldali h1{
+font-size: 40px;
+padding-left:35px;
+border: 2px solid black;
+border-radius: 10px;
+box-shadow: 3px 3px 3px 3px #000000;
+margin-right: 30%;
+margin-left: 10%;
+
+}
+.baloldali img{
+	display: inline-block;
+	border:3px solid black;
+	border-radius: 3px;
+	margin-left: 15px;
+}
+.tartalom{
+	-ms-flex: 70%; /* IE10 */
+  flex: 70%;
+}
+.kepek{
+	font-size: 
+}
+
+
