@@ -6,21 +6,30 @@ body{
 	font-size: 24px;
 	margin:0;
 	font-family: 'Titillium Web', sans-serif;
-	background: #4dff88
+	background: #85e085;
 }
 .fejlec{
-  padding: 65px;
+padding-top: 50px;
+  
   text-align: center;
-  background: #4dff88;
-
   color: black;
-}
+  border-bottom: 3px solid black;
+ }
+ .fejlec p{
+ 	padding-top: -200px;
+ 	font-size: 32px;
+ }
+
 .navsav{
-	
+
 	background-color: #000000;
 	overflow: hidden;
+	position: fixed;
+  top: 0;
+  width: 100%;
 }
 .navsav a{
+
 	padding: 5px;
 	float: left;
 	display: block;
@@ -32,7 +41,7 @@ a.dokumentacio{
 	float: right; 
 }
 .navsav a:hover{
-background-color: #009933;
+background-color:  #145214;
 
 border-bottom: 2px solid white;
 
@@ -45,6 +54,7 @@ border-bottom: 2px solid white;
 .baloldali{
 	-ms-flex: 30%; /* IE10 */
   flex: 30%;
+  max-width: 300px;
 	
 }
 .baloldali h1{
@@ -53,8 +63,9 @@ padding-left:35px;
 border: 2px solid black;
 border-radius: 10px;
 box-shadow: 3px 3px 3px 3px #000000;
-margin-right: 20%;
-margin-left: 30%;
+margin-right: 30%;
+margin-left: 10%;
+
 }
 .baloldali img{
 	display: inline-block;
@@ -66,6 +77,8 @@ margin-left: 30%;
 	-ms-flex: 70%; /* IE10 */
   flex: 70%;
 }
-
+.kepek{
+	font-size: 
+}
 
 
