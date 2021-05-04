@@ -6,7 +6,9 @@ body{
 	font-size: 24px;
 	margin:0;
 	font-family: 'Titillium Web', sans-serif;
-	background: #85e085;
+background: rgb(34,193,195);
+background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(53,204,57,1) 75%);
+	/*background: #85e085;*/
 }
 .fejlec{
 padding-top: 50px;
@@ -167,5 +169,7 @@ h1 {
     width: 100%;
   }
 }
-
+.labrec2{
+	padding:5px; 
+}
 
