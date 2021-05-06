@@ -2,6 +2,7 @@
   box-sizing: border-box;
 
 }
+
 body{
 	font-size: 24px;
 	margin:0;
@@ -22,6 +23,71 @@ padding-top: 50px;
  	font-size: 32px;
  }
 
+.bemutatkozas{
+	display: table;
+}
+.baloldali{
+	float:left;
+	width: 40%
+	
+}
+
+.tartalom{
+	width: 70%;
+	float:right;
+	padding-right: 10px;
+}
+.tartalom p{
+	text-align: justify;
+}
+.kartya {
+  background-color: transparent;
+  width: 80%;
+  padding-top: 20px;
+  padding-right: 30px;
+  perspective: 1000px;
+}
+
+ 
+.kartya-belso {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+}
+
+
+.kartya:hover .kartya-belso {
+  transform: rotateY(180deg);
+}
+
+.kartya-elol, .kartya-hata {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+
+
+.kartya-elol {
+  /*color: black;*/
+}
+
+.kartya-hata {
+  color: black;
+  transform: rotateY(180deg);
+}
+
+.baloldali img{
+	
+	border:3px solid black;
+	border-radius: 3px;
+	margin-left: 15px;
+	width:40%;
+}
 .navsav{
 
 	background-color: #000000;
@@ -30,6 +96,8 @@ padding-top: 50px;
   top: 0;
   width: 100%;
 }
+
+
 .navsav a{
 
 	padding: 5px;
@@ -49,45 +117,12 @@ border-bottom: 2px solid white;
 
 
 }
-.bemutatkozas{
-	display: table;
-}
-.baloldali{
-	float:left;
-	width: 40%
-	
-}
-.baloldali h1{
-font-size: 40px;
-padding-left:35px;
-padding-right: 35px;
-border: 2px solid black;
-border-radius: 10px;
-box-shadow: 3px 3px 3px 3px #000000;
-margin-right: 30%;
-margin-left: 10%;
-width: 60%;
-
-}
-.baloldali img{
-	
-	border:3px solid black;
-	border-radius: 3px;
-	margin-left: 15px;
-}
-.tartalom{
-	width: 60%;
-	float:right;
-	padding-right: 10px;
-}
-.tartalom p{
-	text-align: justify;
-}
 .lablec{
 	padding: 5px;
   text-align: center;
   background: black;
-  bottom: 0;
+  
+  position: bottom;
 }
 .kepek h1{
 	font-size: 42px;
@@ -119,7 +154,7 @@ width: 60%;
   color: white;
   
 }
-.main {
+.oldal {
   max-width: 1000px;
   margin: auto;
 }
