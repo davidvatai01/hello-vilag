@@ -54,7 +54,7 @@ border-bottom: 2px solid white;
 }
 .baloldali{
 	float:left;
-	width: 30%
+	width: 40%
 	
 }
 .baloldali h1{
@@ -76,7 +76,7 @@ width: 60%;
 	margin-left: 15px;
 }
 .tartalom{
-	width: 70%;
+	width: 60%;
 	float:right;
 	padding-right: 10px;
 }
@@ -220,6 +220,7 @@ h1 {
 	text-align: justify;
 }
 .doksi_kep img{
+	padding:10px;
 	float:right;
 	width: 40%;
  
