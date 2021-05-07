@@ -40,6 +40,13 @@ padding-top: 50px;
 .tartalom p{
 	text-align: justify;
 }
+.tartalom a{
+	text-decoration: none;
+	color: black;
+}
+.tartalom a:hover{
+	opacity: 0.7;
+}
 .kartya {
   background-color: transparent;
   width: 80%;
@@ -204,6 +211,16 @@ h1 {
   padding: 10px;
 }
 .kepek:hover{
+
+	padding:10px;
+	border:3px solid black;
+}
+.kepek_2 {
+  background-color: white;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+.kepek_2:hover{
 
 	padding:10px;
 	border:3px solid black;
